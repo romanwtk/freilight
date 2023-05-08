@@ -3,7 +3,7 @@
 
 Whenever I hear about dangerous situations of my friends in darkness or bad experiences with strangers, I get very ashamed and afraid and ask myself whether I am able to detect situations of harassment. Would I know what to do?
 
-I want to do something useful and entertaining at the same time, so I decided to reuse an old online escape game project to build something that let us train our dealing with dangerous situations.
+I want to do something useful and entertaining at the same time, so I decided to reuse an old [online escape game project](https://rwetenkamp.de/escapegame/) to build something that let us train our dealing with dangerous situations.
 
 It is just an idea - maybe a good one, maybe not. Let's see what comes out in the end. 😉
   
